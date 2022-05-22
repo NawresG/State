@@ -1,0 +1,31 @@
+
+.Style{
+    font-family: "Roboto";
+    font-size: "50px";
+    text-transform: "uppercase";
+    color: "cadetblue"
+  };
+  
+.bioTag {
+    font-family: "Roboto";
+    font-size: "18px";
+    color: "rgb(226, 140, 60)";
+    width: "70%";
+    margin: "10px auto"
+  };
+.prof  {
+    width: "40%";
+    font-family: "Roboto";
+    font-size: "15px";
+    color: "rgb(87, 85, 85)";
+    margin: "10px auto"
+  };
+ 
+  .bio{
+    display: block;
+    justify-content: center;
+  }
+
+  .pictureStyle{
+    width: 290px;
+  }
